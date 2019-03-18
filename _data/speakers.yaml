@@ -1,7 +1,11 @@
-- name:
-  avatar: /assets/images/someone.jpeg
-  bio:
-  twitter:
+- name: Bárbara Román
+  avatar: /assets/images/barbara_roman.jpg
+  bio: "Bárbara es abogada penalista y pasó por una etapa de transformación que le llevó a ser CEO de una consultora legal para empresas tecnológicas. Empezó a interesarse por la tecnología cuando aparecieron los primeros casos de ciberdelincuencia, y se dio cuenta de que tener conocimientos tecnológicos en según que juicios podía darle ventaja sobre otros profesionales. Hasta el día de hoy ha seguido investigando la implicaciones que tiene el software en un mundo 4.0.
+
+  También fue coorganizadora del primer Foro de Blockchain para abogados en 2016 y del primer Congreso Legaltech en España en 2016.
+
+  Colabora con el CGAE en su blog de Innovación y Tecnología, y con las comunidades tecnológicas gallegas XantarDev y Blockchain Galicia."
+  twitter: abogadopenal
 
 
 
