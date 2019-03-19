@@ -1,4 +1,9 @@
-- question: ¿A quién va dirigido este evento?
-  answer: TBD
+- question: ¿Habrá mucha jerga legal?
+  answer: La charla está orientada a un público no legal, no hace falta que tengas conocimientos legales.
+
 - question: ¿Tienes alguna pregunta más?
   answer: "Contacta por correo en [hola@vlctechhub.org](mailto:hola@vlctechhub.org)"
+
+- question: ¿A quién va dirigido este evento?
+  answer: Si desarrollas software en una empresa o por tu cuenta, tanto si eres programador/a o gestionas el proyecto, esta charla te interesa.
+

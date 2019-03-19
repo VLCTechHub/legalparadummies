@@ -2,6 +2,14 @@
   day:  1
   time: "18:30 - 18:40"
 
+- name: Legal para dummies
+  day:  1
+  time: "18:40 - 19:40"
+
+- name: Networking
+  day:  1
+  time: "19:40 - 20:15"
+
 - name: Cierre
   day:  1
   time: "20:15"
