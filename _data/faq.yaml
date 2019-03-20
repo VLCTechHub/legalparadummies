@@ -1,9 +1,11 @@
 - question: ¿Habrá mucha jerga legal?
   answer: La charla está orientada a un público no legal, no hace falta que tengas conocimientos legales.
 
-- question: ¿Tienes alguna pregunta más?
-  answer: "Contacta por correo en [hola@vlctechhub.org](mailto:hola@vlctechhub.org)"
+- question: No puedo llegar puntual ¿Puedo entrar a la charla más tarde?
+  answer: La puerta del edificio se cierra a las 19:00h. Por favor intenta ser puntual o llegar antes de las 19:00 porque si no te perderás parte de la charla. Si aún así vienes más tarde y la puerta está cerrada, puedes contactar con Enrique (683448793) de MercadonaTech para que te abra la puerta.
 
 - question: ¿A quién va dirigido este evento?
   answer: Si desarrollas software en una empresa o por tu cuenta, tanto si eres programador/a o gestionas el proyecto, esta charla te interesa.
 
+- question: ¿Tienes alguna pregunta más?
+  answer: "Contacta por correo en [hola@vlctechhub.org](mailto:hola@vlctechhub.org)"
